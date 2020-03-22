@@ -1,0 +1,14 @@
+
+.myMargin{
+    margin: 3px;
+}
+.myMargin2{
+    margin: 5px;
+}
+
+footer{
+    padding: 10px 20px;
+    background:blue;
+    color: white;
+    text-align: center;
+    }
